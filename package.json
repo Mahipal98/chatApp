@@ -8,6 +8,6 @@
         "ibm-watson": "^5.2.1",
         "jquery": "^3.4.1",
         "nodemon": "^2.0.2",
-        "socket.io": "^2.3.0"
+        "socket.io": "^2.4.0"
     }
 }
